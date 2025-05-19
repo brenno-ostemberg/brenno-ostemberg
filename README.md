@@ -14,8 +14,6 @@ Welcome to my profile! I’m a Software Engineering student at UFMS 🇧🇷.
 
 - 🦆 Mobile Developer Volunteer at [Mega Jr](https://www.megajunior.com.br/)
 
-- 🚀 Full-Stack Developer Volunteer at [FETECMS - UFMS](https://www.fetecms.com/)
-
 **Stacks**:
 
 <img 
