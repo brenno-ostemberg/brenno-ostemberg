@@ -10,8 +10,6 @@ Welcome to my profile! I’m a Software Engineering student at UFMS 🇧🇷.
 
 **About me**:
 
-- 💼 Back-End Developer at [Cardway](https://www.grupocard.com.br/)
-
 - 🖥️ Software Engineer at [LEDES](https://www.facom.ufms.br/laboratorios/)
 
 - 🦆 Project Director at [Mega Jr](https://www.megajunior.com.br/)
